@@ -59,12 +59,13 @@ print('{:.2f}'.format(norm))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output1](1.png)
+![1](https://github.com/Kishorerz/Norm-of-a-matrix/assets/144451216/9ba64325-43ee-49d1-a026-bddc8994cbc7)
 
 ### 2-Norm of a Matrix
-![output2](2.png)
+![2](https://github.com/Kishorerz/Norm-of-a-matrix/assets/144451216/45bfdbd4-5f0b-4746-973b-1675f485227b)
+
 ### Infinity Norm of a Matrix
-![output3](3.png)
+![3](https://github.com/Kishorerz/Norm-of-a-matrix/assets/144451216/251fd52f-eaed-4ebc-9dcb-32d47fbb9fa5)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
